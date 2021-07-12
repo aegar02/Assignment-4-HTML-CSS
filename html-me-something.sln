@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.810.5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "html-me-something", "html-me-something\html-me-something.mdproj", "{85BCF2DA-441B-4052-A5FC-8C5B1D2DD2FE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1F783D2A-87B3-452F-8D7C-2613F20FA8E6}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+		images\Madrid.jpeg = images\Madrid.jpeg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Any CPU = Default|Any CPU
